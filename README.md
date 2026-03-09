@@ -7,13 +7,27 @@ Sezgisel arayüzü ve gecikmesiz (lag-free) haberleşme protokolü sayesinde, bi
 ## 🌟 Öne Çıkan Özellikler
 
 **Dinamik Makro ve Navigasyon:** Sınırsız profil, akıllı klasörleme ve çoklu sayfa desteği ile fiziksel tuşlarınıza yüzlerce farklı görev atayın. Tek tık, çift tık ve basılı tutma (Key Logic) gibi gelişmiş tetikleme seçenekleriyle tam kontrol sağlayın.
+
+
 **Gelişmiş RGB Aydınlatma Motoru:** 20'den fazla endüstri standardı animasyon (Matrix, Wave, Breathing, React vb.) ve genişletilmiş renk paleti ile çalışma alanınızı kişiselleştirin. Akıllı sese duyarlı (Audio Reactive) mod ile aydınlatmanızı anlık sistem sesinizle senkronize edin.
+
+
 **Profesyonel Ses Mikseri:** Fiziksel potansiyometre entegrasyonu ile işletim sistemi sesini veya uygulamalara özel (Spotify, Discord, Oyunlar vb.) ses düzeylerini donanım üzerinden kusursuzca yönetin.
+
+
 **OBS Studio:** Sahneler arası kayıpsız geçiş, anlık kaynak kontrolü, hızlı ekran görüntüsü alma ve kayıtlara otomatik 'Chapter Marker' ekleme.
 **Discord:** Sesli ve metin kanallarına anında geçiş, global mikrofon/kulaklık susturma (Mute/Deafen) yönetimi.
+
+
 **Twitch:** Canlı yayında tek tuşla reklam oynatma, sohbet (chat) akış hızı kontrolü, önceden tanımlanmış mesaj gönderimi ve anlık yayın başlığı güncelleme.
+
+
 **Voicemod:** Özel ses efektlerini (Soundboard) tetikleme ve ses profilleri arasında sıfır gecikmeli geçiş.
+
+
 **Donanım Zırhı ve Güvenlik:** Özel donanım kimliği (Hardware ID) tanıma sistemi sayesinde, Macro Pad cihazı bağlı değilken arayüz kendini otomatik olarak kilitler ve yetkisiz müdahaleleri engeller.
+
+
 **Otonom (OTA) Güncelleme Sistemi:** Arka planda sessizce çalışan bulut tabanlı motoru sayesinde, yazılım ve donanım (Firmware) güncellemelerini kullanıcıyı rahatsız etmeden, tek tıkla kurar.
 
 ## 📥 Kurulum ve Kullanım
