@@ -1,20 +1,26 @@
-# 🚀 Stream Desk Manager v1.0
+# 🚀 Macro Pad v1.0
 
-**Stream Desk Manager**, kendi donanımınızı üreterek piyasadaki pahalı yayıncı/makro klavyelerine (Örn: Elgato Stream Deck) rakip olmanızı sağlayan **açık kaynaklı ve tam donanımlı bir yönetim yazılımıdır.**
+**Macro Pad**, yayıncılar, içerik üreticileri ve profesyoneller için tasarlanmış, üst düzey bir masaüstü kontrol ve otomasyon yazılımıdır. İş akışınızı maksimum verimliliğe ulaştırmak ve donanımınızı tam kapasiteyle yönetmek için özel olarak geliştirilmiştir.
 
-Arduino Pro Micro (ATmega32U4) beyni ile haberleşen bu C# WPF tabanlı yazılım, hem bilgisayarınızı yönetmenizi hem de yayınlarınızı tek tuşla kontrol etmenizi sağlar.
+Sezgisel arayüzü ve gecikmesiz (lag-free) haberleşme protokolü sayesinde, bilgisayarınızı ve canlı yayınlarınızı tek bir dokunuşla kontrol edebilirsiniz.
 
- Öne Çıkan Özellikler
+## 🌟 Öne Çıkan Özellikler
 
-**Sınırsız Makro & Navigasyon:** Klasörleme ve sayfalama sistemi sayesinde 15 fiziksel tuşa yüzlerce farklı görev atayın. Tek tık, çift tık ve basılı tutma (Key Logic) destekler.
-**FastLED RGB Motoru:** 25'li özel renk paleti, PC sesine duyarlı (Audio Reactive) aydınlatma ve 20'den fazla endüstri standartı donanımsal animasyon (Matrix, Kara Şimşek, Lav, Konfeti vb.)
-**Dinamik Ses Mikseri:** Fiziksel potansiyometre (DJ Tekerleği) ile Windows ana sesini kontrol edin veya uygulamaya özel (Spotify, Discord, Oyunlar) sesleri bağımsız olarak kısın.
-**Güçlü API Entegrasyonları:** * **OBS Studio:** Sahneler arası geçiş, kaynakları aç/kapat, filtreleri yönet, anında ekran görüntüsü (Screenshot) veya Chapter Marker al.
-**Discord:** Sesli/Metin kanallarına anında geçiş yap, mikrofonu (Mute/Deafen) yönet.
-**Twitch:** Canlı yayında reklam gir, chati yavaşlat, yayın başlığını değiştir veya otomatik chat mesajı at.
-**Voicemod:** Ses efektlerini (Soundboard) tek tuşla çal veya ses modelini anında değiştir.
-**Donanım Zırhı:** Cihaz bağlı değilse arayüz kendini kilitler ve yetkisiz müdahaleyi engeller.
-**Bulut Tabanlı OTA Güncelleme:** Yazılım, GitHub üzerinden kendi güncellemelerini ve donanım (Firmware .hex) güncellemelerini otomatik indirip kurar.
+**Dinamik Makro ve Navigasyon:** Sınırsız profil, akıllı klasörleme ve çoklu sayfa desteği ile fiziksel tuşlarınıza yüzlerce farklı görev atayın. Tek tık, çift tık ve basılı tutma (Key Logic) gibi gelişmiş tetikleme seçenekleriyle tam kontrol sağlayın.
+**Gelişmiş RGB Aydınlatma Motoru:** 20'den fazla endüstri standardı animasyon (Matrix, Wave, Breathing, React vb.) ve genişletilmiş renk paleti ile çalışma alanınızı kişiselleştirin. Akıllı sese duyarlı (Audio Reactive) mod ile aydınlatmanızı anlık sistem sesinizle senkronize edin.
+**Profesyonel Ses Mikseri:** Fiziksel potansiyometre entegrasyonu ile işletim sistemi sesini veya uygulamalara özel (Spotify, Discord, Oyunlar vb.) ses düzeylerini donanım üzerinden kusursuzca yönetin.
+**OBS Studio:** Sahneler arası kayıpsız geçiş, anlık kaynak kontrolü, hızlı ekran görüntüsü alma ve kayıtlara otomatik 'Chapter Marker' ekleme.
+**Discord:** Sesli ve metin kanallarına anında geçiş, global mikrofon/kulaklık susturma (Mute/Deafen) yönetimi.
+**Twitch:** Canlı yayında tek tuşla reklam oynatma, sohbet (chat) akış hızı kontrolü, önceden tanımlanmış mesaj gönderimi ve anlık yayın başlığı güncelleme.
+**Voicemod:** Özel ses efektlerini (Soundboard) tetikleme ve ses profilleri arasında sıfır gecikmeli geçiş.
+**Donanım Zırhı ve Güvenlik:** Özel donanım kimliği (Hardware ID) tanıma sistemi sayesinde, Macro Pad cihazı bağlı değilken arayüz kendini otomatik olarak kilitler ve yetkisiz müdahaleleri engeller.
+**Otonom (OTA) Güncelleme Sistemi:** Arka planda sessizce çalışan bulut tabanlı motoru sayesinde, yazılım ve donanım (Firmware) güncellemelerini kullanıcıyı rahatsız etmeden, tek tıkla kurar.
+
+## 📥 Kurulum ve Kullanım
+
+1. **[Releases]** bölümünden projenin en güncel `Setup.exe` dosyasını indirin.
+2. Kurulum sihirbazını takip ederek yazılımı sisteminize yükleyin.
+3. Kendi ekosisteminizi oluşturmak için profillerinizi adlandırın ve eylemlerinizi sürükle-bırak (Drag & Drop) yöntemiyle tuşlara atamaya başlayın!
 
 ---
-*Geliştiriciler için not: Bu proje C# (WPF) ve C++ (Arduino) dillerinin mükemmel uyumuyla, sıfır gecikmeli (lag-free) seri haberleşme kullanılarak inşa edilmiştir.*
+*© 2026 Macro Pad. Tüm hakları saklıdır.*
