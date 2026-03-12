@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="250" height="250" alt="Başlıksız-1" src="https://github.com/user-attachments/assets/5ba1e47d-0c66-4016-a1d0-006975d7a972" />
+
+</p>
 # 🚀 Macro Pad v1.0
 
 **Macro Pad**, yayıncılar, içerik üreticileri ve profesyoneller için tasarlanmış, üst düzey bir masaüstü kontrol ve otomasyon yazılımıdır. İş akışınızı maksimum verimliliğe ulaştırmak ve donanımınızı tam kapasiteyle yönetmek için özel olarak geliştirilmiştir.
